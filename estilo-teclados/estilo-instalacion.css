@@ -143,6 +143,7 @@ header #titulo {
     main .Instalacion iframe {
       width:300px;
       margin-left:0;
+      margin-bottom:100px;
     }
   }
 
