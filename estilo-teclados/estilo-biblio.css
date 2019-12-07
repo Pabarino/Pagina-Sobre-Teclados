@@ -127,11 +127,11 @@ header #titulo {
   main .enlaces {    
     color:white;
     margin:50px auto;
+    margin-bottom: 100px;
   }
 
   main .enlaces a {
-    color:white;
-    margin-bottom: 100px;
+    color:white;    
   }
 
   
