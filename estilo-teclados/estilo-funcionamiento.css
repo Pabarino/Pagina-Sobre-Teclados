@@ -139,9 +139,9 @@ header #titulo {
     margin-left:30%;
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 940px) {
     main .func iframe {
-      width:300px;
+      width:90%;
       margin-left:0;
       margin-bottom:100px;
     }
